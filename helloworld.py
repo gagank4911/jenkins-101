@@ -1,2 +1,2 @@
 
-print("Hello what u doing")
+print("Hello what doing")
